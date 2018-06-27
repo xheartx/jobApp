@@ -1,0 +1,8 @@
+.logo-container{
+  width: 40%;
+  margin: 50px auto 20px;
+  text-align: center;
+}
+.logo-container img{
+  width: 100%;
+}
