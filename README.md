@@ -1,5 +1,6 @@
 # React jobApp
 
+React 16+Redux+React Router 4 Node.Js 全栈开发招聘App项目
 ```
 # install dependencies
 npm install
@@ -17,3 +18,4 @@ npm run build
 ![](http://ww1.sinaimg.cn/large/006ohsoygy1ftwmxvktpvj30af0im3z1.jpg)
 ![](http://ww1.sinaimg.cn/large/006ohsoygy1ftwmy24a9pj30ar0ipwet.jpg)
 ![](http://ww1.sinaimg.cn/large/006ohsoygy1ftwmy242zcj30an0isjrm.jpg)
+![](http://ww1.sinaimg.cn/large/006ohsoygy1ftwmzgonwuj30ai0ipmxf.jpg)
